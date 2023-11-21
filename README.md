@@ -1,1 +1,1 @@
-# web-project-1
+This is a simple website named 'Findiing Missing People'.
